@@ -25,7 +25,7 @@ To use this repository, you need to have the following prerequisites installed o
 You can clone this repository using the following command:
 
 ```
-git clone 
+git clone https://github.com/AnthonyByansi/BI-Compass.git
 ```
 
 ## Usage
