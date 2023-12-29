@@ -1,42 +1,43 @@
 # BI-Compass
 
-This repository is a comprehensive guide to Business Intelligence (BI). It covers a wide range of topics from the basics of BI to advanced topics and case studies.
+This repository contains various resources and code for Business Intelligence (BI) projects. BI is a broad term that covers various methods and tools for collecting, analyzing, and presenting data to support decision-making.
 
-## Table of Contents
+## Features
 
-1. [Introduction](01-Introduction)
-    - [What is BI](01-Introduction/01-What-is-BI.md)
-    - [Importance of BI](01-Introduction/02-Importance-of-BI.md)
-    - [Key Concepts](01-Introduction/03-Key-Concepts.md)
-2. [Fundamentals of Data Analysis](02-Fundamentals-of-Data-Analysis)
-    - [Introduction to Data Analysis](02-Fundamentals-of-Data-Analysis/2.1-Introduction-to-Data-Analysis.md)
-    - [Statistical Concepts](02-Fundamentals-of-Data-Analysis/2.2-Statistical-Concepts.md)
-    - [Data Cleaning](02-Fundamentals-of-Data-Analysis/2.3-Data-Cleaning.md)
-    - [Data Manipulation](02-Fundamentals-of-Data-Analysis/2.4-Data-Manipulation.md)
-3. [BI Tools and Technologies](03-BI-Tools-and-Technologies)
-    - [Overview of BI Tools](03-BI-Tools-and-Technologies/01-Overview-of-BI-Tools.md)
-    - ...
-4. [Data Collection and Analysis](04-Data-Collection-and-Analysis)
-5. [Advanced Topics](05-Advanced-Topics)
-6. [Case Studies](06-Case-Studies)
-7. [Resources](07-Resources)
+This repository includes the following features:
 
-## Forums and Discussion Boards
+- Code and scripts for data extraction, transformation, and loading (ETL) from various sources.
+- Data models and schemas for organizing and storing data in a consistent and efficient way.
+- BI tools and platforms for creating and sharing dashboards, reports, and visualizations.
+- Libraries and frameworks for data analysis, machine learning, and statistics.
+- Best practices and guidelines for data quality, governance, and security.
+- Tutorials and examples for learning and applying BI concepts and techniques.
 
-Find the list of forums and discussion boards [here](01-Forums-and-Discussion-Boards.md).
+## Installation
 
-## Events and Webinars
+To use this repository, you need to have the following prerequisites installed on your system:
 
-Find the list of events and webinars [here](02-Events-and-Webinars.md).
+- Python 3.8 or higher
+- Power BI Desktop
+- SQL Server
+- Git
 
-## Job Opportunities
+You can clone this repository using the following command:
 
-Find the list of job opportunities [here](03-Job-Opportunities.md).
+```
+git clone 
+```
 
-## Contributing
+## Usage
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+To use this repository, you need to follow these steps:
+
+- Run the etl.py script to perform the ETL process and load the data into the data warehouse.
+- Open the dashboard.pbix file in Power BI Desktop and explore the data and visualizations.
+- Open the report.rdl file in SQL Server Reporting Services and generate the report.
+- Open the analysis.ipynb file in Jupyter Notebook and run the code cells to perform the data analysis.
+- Refer to the docs folder for more information and documentation on the data, the data model, the BI tools, and the BI guidelines.
 
 ## License
 
-This project is licensed under the terms of the MIT license. See [LICENSE.md](LICENSE.md) for details.
+This repository is licensed under the MIT License. See the LICENSE file for more details.
