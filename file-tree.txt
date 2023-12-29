@@ -1,4 +1,4 @@
-Business Intelligence Learning Repository
+Business Intelligence
 │
 ├── 1. Introduction to Business Intelligence
 │   ├── 1.1 What is Business Intelligence.md
@@ -42,7 +42,7 @@ Business Intelligence Learning Repository
 
 
 
-Business Intelligence Learning Repository
+Business Intelligence
 |
 |-- 1. Introduction to Business Intelligence
 |   |-- 1.1 What is Business Intelligence?
@@ -75,3 +75,40 @@ Business Intelligence Learning Repository
     |-- 6.1 Job Roles and Responsibilities
     |-- 6.2 Interview Preparation
     |-- 6.3 Continuing Education
+
+
+BI-
+├── README.md
+├── LICENSE
+├── .gitignore
+├── data
+│   ├── raw
+│   │   ├── sales.csv
+│   │   ├── customers.csv
+│   │   └── products.csv
+│   ├── processed
+│   │   ├── sales_cleaned.csv
+│   │   ├── customers_cleaned.csv
+│   │   └── products_cleaned.csv
+│   └── warehouse
+│       ├── dim_sales.sql
+│       ├── dim_customers.sql
+│       └── dim_products.sql
+├── code
+│   ├── etl
+│   │   ├── etl.py
+│   │   ├── etl_config.json
+│   │   └── etl_utils.py
+│   ├── analysis
+│   │   ├── analysis.ipynb
+│   │   ├── analysis.py
+│   │   └── analysis_utils.py
+│   └── visualization
+│       ├── dashboard.pbix
+│       ├── report.rdl
+│       └── chart.js
+└── docs
+    ├── data_dictionary.md
+    ├── data_model.png
+    ├── bi_tools.md
+    └── bi_guidelines.md
