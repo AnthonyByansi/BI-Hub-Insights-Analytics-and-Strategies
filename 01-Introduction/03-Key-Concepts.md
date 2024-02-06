@@ -16,6 +16,9 @@ Business Intelligence refers to the process of collecting, analyzing, and presen
     - Transformation: Cleaning, aggregating, and structuring data.
     - Loading: Populating the data warehouse.
 
+### How ETL works 
+![ETL-process light](https://github.com/AnthonyByansi/BI-Hub-Insights-Analytics-and-Strategies/assets/101401469/dcb8c200-39f5-4425-99fa-5de9fd171bca)
+
 ## 4. **Data Modeling**
 - **Purpose**: To design a logical representation of data for efficient querying and reporting.
 - **Types**:
