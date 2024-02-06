@@ -43,8 +43,7 @@ Contributions are welcome! If you have expertise, resources, or experiences to s
 
 This project is licensed under the MIT License - see the [LICENSE](.LICENCE) file for details.
 
-## Acknowledgments
-
-We extend our gratitude to all contributors who have invested their time and effort into enriching this repository.
+## Attribution
+The icons used in this repository are sourced from Flaticon.
 
 
