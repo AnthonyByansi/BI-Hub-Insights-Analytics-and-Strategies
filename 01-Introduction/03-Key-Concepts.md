@@ -1,3 +1,4 @@
+
 # Key Concepts in Business Intelligence
 
 ## 1. **Business Intelligence (BI) Overview**
