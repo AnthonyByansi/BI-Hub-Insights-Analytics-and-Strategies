@@ -1,49 +1,55 @@
-# Business Intelligence Guide
 
-Welcome to the Business Intelligence (BI) Guide. This resource is dedicated to providing a comprehensive overview of BI concepts, tools, and practices. Whether you're a beginner or an experienced professional, this guide aims to enhance your understanding and application of BI.
+<div align="center">
+  <img src="Assets/mind-mapping.png" alt="Business Intelligence" width="200"/>
+  <h1>Business Intelligence Guide</h1>
+  <p>Welcome to the Business Intelligence (BI) Guide. This resource is dedicated to providing a comprehensive overview of BI concepts, tools, and practices. Whether you're a beginner or an experienced professional, this guide aims to enhance your understanding and application of BI.</p>
+</div>
 
-## Contents
+## 📚 Contents
 
-- Introduction to Business Intelligence
-  - What is Business Intelligence?
-  - Importance of Business Intelligence
-  - BI vs Data Science
-- Fundamentals of Business Intelligence
-  - Data Warehousing
-  - ETL Processes
-  - Data Modeling
-  - BI Reporting
-- BI Tools
-  - Microsoft Power BI
-  - Tableau
-  - QlikView
-  - SAP BusinessObjects
-- Advanced BI Concepts
-  - Data Mining
-  - Predictive Analytics
-  - Big Data and BI
-- Case Studies
-  - Retail
-  - Healthcare
-  - Finance
-- Career in BI
-  - Job Roles and Responsibilities
-  - Interview Preparation
-  - Continuing Education
+### Introduction to Business Intelligence
+- **What is Business Intelligence?**
+- **Importance of Business Intelligence**
+- **BI vs Data Science**
 
-## Getting Started
+### Fundamentals of Business Intelligence
+- **Data Warehousing**
+- **ETL Processes**
+- **Data Modeling**
+- **BI Reporting**
 
-To get the most out of this guide, begin with the Introduction to Business Intelligence section to familiarize yourself with the fundamental concepts and significance of BI.
+### BI Tools
+- **Microsoft Power BI**
+- **Tableau**
+- **QlikView**
+- **SAP BusinessObjects**
 
-## Contributing
+### Advanced BI Concepts
+- **Data Mining**
+- **Predictive Analytics**
+- **Big Data and BI**
 
-Contributions are welcome! If you have expertise, resources, or experiences to share, please consider contributing to this repository. For more information, see our contributing guidelines.
+### Case Studies
+- **Retail**
+- **Healthcare**
+- **Finance**
 
-## License
+### Career in BI
+- **Job Roles and Responsibilities**
+- **Interview Preparation**
+- **Continuing Education**
 
-This project is licensed under the MIT License - see the [LICENSE](.LICENCE) file for details.
+## 🚀 Getting Started
 
-## Attribution
-The icons used in this repository are sourced from Flaticon.
+To make the most out of this guide, start with the "Introduction to Business Intelligence" section. This will provide a solid foundation in the fundamental concepts and significance of BI.
 
+## 🤝 Contributing
 
+Contributions are encouraged! If you possess expertise, resources, or valuable experiences, please consider contributing to this repository. For details, refer to our [contributing guidelines](CONTRIBUTING.md).
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 Attribution
+The icons used in this repository are sourced from Flaticon. 🙌
